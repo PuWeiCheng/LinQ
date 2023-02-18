@@ -1,0 +1,8 @@
+C:\Users\wayne\source\repos\test-1\LinQ-test\bin\Debug\LinQ-test.exe.config
+C:\Users\wayne\source\repos\test-1\LinQ-test\bin\Debug\LinQ-test.exe
+C:\Users\wayne\source\repos\test-1\LinQ-test\bin\Debug\LinQ-test.pdb
+C:\Users\wayne\source\repos\test-1\LinQ-test\obj\Debug\LinQ-test.csproj.AssemblyReference.cache
+C:\Users\wayne\source\repos\test-1\LinQ-test\obj\Debug\LinQ-test.csproj.SuggestedBindingRedirects.cache
+C:\Users\wayne\source\repos\test-1\LinQ-test\obj\Debug\LinQ-test.csproj.CoreCompileInputs.cache
+C:\Users\wayne\source\repos\test-1\LinQ-test\obj\Debug\LinQ-test.exe
+C:\Users\wayne\source\repos\test-1\LinQ-test\obj\Debug\LinQ-test.pdb

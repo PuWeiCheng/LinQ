@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQ-test", "LinQ-test\LinQ-test.csproj", "{479ECDD1-A446-49E7-BE9B-01D8FD64C20B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test-2", "test-2\test-2.csproj", "{BB52C6ED-1FB2-401F-890C-0C3356448DF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{479ECDD1-A446-49E7-BE9B-01D8FD64C20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479ECDD1-A446-49E7-BE9B-01D8FD64C20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479ECDD1-A446-49E7-BE9B-01D8FD64C20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479ECDD1-A446-49E7-BE9B-01D8FD64C20B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB52C6ED-1FB2-401F-890C-0C3356448DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB52C6ED-1FB2-401F-890C-0C3356448DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB52C6ED-1FB2-401F-890C-0C3356448DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB52C6ED-1FB2-401F-890C-0C3356448DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A3135A7-D4EA-42DB-853A-85806EF230AA}
+	EndGlobalSection
+EndGlobal
